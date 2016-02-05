@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="891CD9C4-0A73-4D6E-A6C5-B4F69B72674F">
+  <lastEdited clientType="local-build-20121225" date="2012-12-26 03:44:24 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Euro 2012: &#xD;It was fun as long as it lasted.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Faxe Kondi Urge and Sunspots</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>It started so nice and then it ended so bad... well maybe not bad, but at least they could have advanced to the quarters. Well; judging from the Match against both Portugal and Germany it was probably the two best teams who made it to the quarter finals from our group - it would have been fun with DK in the quarters though. But the Germans are happy... but come on - what&#x2019;s up with all the honking after each match. It&#x2019;s okay you go crazy when/if you win the tournament, but after every God damn match - come on!&#xD;&#xD;Besides watching football I have started reading up for the defense - 2 weeks left and counting. I must admit it has actually been good to brush up all the basic astrophysics stuff; it&#x2019;s like much of it makes much more sense now that I have been doing this for 4 years without worrying about the next exam and just focused on the research. But I must also admit that it&#x2019;s not all of the things I brush up which are equally interesting - no offense but sunspots, asteroid chemical composition, and planet formation is not really my thing... But the preparation is moving forward which is good.&#xD;&#xD;Friday I went out for some beers to focus on something else (or more correctly focus on nothing really) with a couple of the guys from basket. We ended up going all in which was really what I needed. Wasn&#x2019;t that productive yesterday but I&#x2019;m pretty sure that the stress release that alcohol after all is will help me get through the last two weeks. However, waking up with a desert-mouth and then seeing that one of my mates from University posted the song below on FB made yesterday tough. I miss you Faxe Kondi!&#xD;&#xD;Besides I don&#x2019;t have much to report. I&#x2019;ll keep you updated&#xD;Cheers - but unfortunately in Coke and not Faxe K :&#x2019;(&#xD;/K</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, 24 June 2012&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="24_Faxe_Kondi_Urge_and_Sunspots_files/shapeimage_2.png" left="0px" top="0px" width="402px" height="267px"/>
+</content>

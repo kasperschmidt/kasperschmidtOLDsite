@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="891CD9C4-0A73-4D6E-A6C5-B4F69B72674F">
+  <lastEdited clientType="local-build-20121225" date="2012-12-26 03:44:21 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;ITA-FRA 1-2 &amp; SUI-CZE 3-2&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>IIHF WC matches - AWESOME!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Yesterday we went to the SAP arena in Mannheim for two &lt;a href="http://www.iihf.com/"&gt;ice hockey world cup&lt;/a&gt; matches - one &lt;a href="http://en.wikipedia.org/wiki/2010_IIHF_World_Championship#Relegation_round"&gt;relegation round&lt;/a&gt; match and one match from &lt;a href="http://en.wikipedia.org/wiki/2010_IIHF_World_Championship#Qualification_round"&gt;the qualification round&lt;/a&gt;, and DAMN it was awesome! The first match between Italy and France was fun and exciting but when we saw the second match between the Czech Republic and Switzerland the tempo and the technical skills got a big notch up and the power was turned to MAX - it was incredible. 3 good periods of action together with 7,000 other hockey-fans (!GOAL! as I write this Denmark just scored to 1-2 against Russia - come on you can do it guys...) is really a good way to spend a saturday. Has not recovered perfectly yet, and my voice is a bit rusty after the shouting but it was definitely worth it :)&#xD;&#xD;Besides that no news... just wanted to share my excitement of yesterday with the rest of you.&#xD;&#xD;Go DENMARK!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, 16 May 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_IIHF_WC_matches_-_AWESOME%21_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

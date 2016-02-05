@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="891CD9C4-0A73-4D6E-A6C5-B4F69B72674F">
+  <lastEdited clientType="local-build-20121225" date="2012-12-26 03:44:20 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Happy New Year to Everyone&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Xmas done - back to work...</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Well, this is gonna be a short entry since I&#x2019;m not really in the mood for blogging today and since Super Mario Bros. Wii is waiting for me ;)&#xD;I&#x2019;m now back in Heidelberg after a really nice christmas in DK. I managed to see many of my friends, spend a lot of quality time with my family and best of all I had some great days with Mette. I hope that all of you had a nice christmas as well!&#xD;I have uploaded some pictures which basically takes you through my christmas. Admitted, there are food and drinks in many of the pictures, but isn&#x2019;t that what christmas is all about?&#xD;Maybe you&#x2019;ll get some details about my christmas next time, but we&#x2019;ll have so see about that...&#xD;&#xD;Happy new year and talk to you next time&#xD;KBS</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, 10 January 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Xmas_done_-_back_to_work..._files/shapeimage_2.png" left="0px" top="0px" width="299px" height="374px"/>
+</content>

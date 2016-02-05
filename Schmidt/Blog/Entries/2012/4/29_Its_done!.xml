@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="891CD9C4-0A73-4D6E-A6C5-B4F69B72674F">
+  <lastEdited clientType="local-build-20121225" date="2012-12-26 03:44:23 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Done - Amazing feeling&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>It&#x2019;s done!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>After a couple of very long weeks with very little exercise and (too) many hours in front of the mac - actually when I close my eyes I still see a picture similar to the one above - it is finally done! &#xD;&#xD;I can therefore hand in my PhD thesis to the two referees tomorrow with a clean conscience and the hope that they will eventually recommend it for a defense. It's been tough but my plan-everything-in-advance-syndrome has helped me quite a lot the last two months. As you might have realized following my posts here it's been a long tough stretch, but I managed to get everything together in time, and I even have tonight off - it's printed. &#xD;&#xD;&#xD;&#xD;Now the plan is to do very little the next couple of days to compensate so I don't get completely crazy. After that I will tie up some loose ends before the next stretch of hard work needs to be planned: reading up for the defense-&#x201D;quiz&#x201D;... but no need to worry about that for the next couple of weeks - I hope.&#xD;&#xD;back to life, back to reality...&#xD;&#xD;And still - if you have any hints for what to see/do in Berlin, then drop me a line in a comment &lt;a href="perma://BLPageReference/09870D84-1B47-40A7-A3CB-17BE4A68AA80"&gt;here&lt;/a&gt;&#xD;&#xD;Cheers!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, 29 April 2012&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Its_done%21_files/shapeimage_3.png" left="0px" top="0px" width="403px" height="307px"/>
+</content>

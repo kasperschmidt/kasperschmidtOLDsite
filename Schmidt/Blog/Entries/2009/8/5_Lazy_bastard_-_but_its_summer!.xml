@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="891CD9C4-0A73-4D6E-A6C5-B4F69B72674F">
+  <lastEdited clientType="local-build-20121225" date="2012-12-26 03:44:18 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Busy bee&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Lazy bastard - but it&#x2019;s summer!</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Sorry - yeah I know. I have been a lazy bastard the last couple of months - regarding the blog update that is! My excuse is that I have been really busy with a lot of stuff. After I wrote last time my parents visited, Mette visited, I threw a small housewarming, My collaborator Phil Marshall visited from Santa Barbara, I had to prepare a poster for the upcoming IAU symposium in Rio, my parents &#x2018;in law&#x2019; had 25th anniversary and I missed Mette (so I had to go to Denmark for a couple of weeks). I&#x2019;m still pretty busy, so this entry will also be rather short.&#xD;Well the as you can see I have have had plenty to do the last couple of months. I have tried to keep the pictures on my web &lt;a href="http://gallery.me.com/kasperschmidt"&gt;gallery&lt;/a&gt; up to date (but have unfortunately failed that as well - even though is more up to date than the blog) so if you are curious the feel free to drop by there once in a while. I mention this since I will not be able to blog the next couple of weeks where I&#x2019;m off to Rio de Janeiro for a conference and a week of vacation, but I will hopefully have time to upload some pictures. And they say that pictures speak a thousand words, so a gallery should as good (if not better) than my blog entries.&#xD;I don&#x2019;t think I have that much more to add this time... no not really. I just want to wish everyone a happy sommer (a bit late - I know) and then talk to you all in a couple of weeks.&#xD;see yah!&#xD;&#xD;&#xD;(The pictures are from a nice summer morning in DK - I was a bit bored, so played with my camera...)&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, 5 August 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Lazy_bastard_-_but_its_summer%21_files/shapeimage_4.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

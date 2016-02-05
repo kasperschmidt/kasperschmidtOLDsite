@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="891CD9C4-0A73-4D6E-A6C5-B4F69B72674F">
+  <lastEdited clientType="local-build-20121225" date="2012-12-26 03:44:20 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Logorama - 100p worth an Oscar&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Easter bunny is waiting...</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Hey Everyone. Just a quick one this time before easter throws all its chocolate, excellent food and beers over us. Just wanted to make everyone aware of the most deserved Oscar this year... Logorama - that&#x2019;s God damn art! I have put a link to the movie &lt;a href="perma://BLPageReference/704E93A2-BE49-4DC4-AE9A-62087FF32006"&gt;here&lt;/a&gt; - enjoy. I have seen it several times now and it just keeps getting better :)&#xD;Besides that little intermezzo I don&#x2019;t have that much new stuff to add. The last couple of weeks I have been working in order to be able to take some days off over easter. Got a referee report on my submitted paper a couple of weeks ago, which was REALLY positive, so it only took a couple of days to put together a reply, and already a couple of days after that ApJ send me an email to let me know that they had accepted it for publication - so that was amazing! So this weekend we went out to celebrate a bit. Besides that we also had to say goodbye to Bhargav in a proper way before he left for 5 months in the US today - and so we did, with good food, beers and whiskey.&#xD;Right now I&#x2019;m just getting ready for a couple of days in DK &#x2018;celebrating&#x2019; easter with my parents, brother and Mette. Was also concidering going to a concert friday with White Pony and Fagget Fairys at &lt;a href="http://www.postenlive.dk/"&gt;Posten&lt;/a&gt; which I think is gonna be an awesome concert - they really know how to put on a party... but let&#x2019;s see; I haven&#x2019;t decided anything yet.&#xD;&#xD;Talk to you soon&#xD;Cheers&#xD;/K</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, 29 March 2010&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Easter_bunny_is_waiting..._files/shapeimage_2.png" left="0px" top="0px" width="423px" height="284px"/>
+</content>

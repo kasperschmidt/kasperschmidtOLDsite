@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="891CD9C4-0A73-4D6E-A6C5-B4F69B72674F">
+  <lastEdited clientType="local-build-20121225" date="2012-12-26 03:44:22 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Visitor Raid&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>...check...</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>As I mentioned last time the visit of my parents was just one in a series of several. In the weekend around my birthday Mette, her sister and her parents visited Heidelberg. The weather was great and we managed to see basically everything there is to see (and do) in Heidelberg, i.e., tour at MPIA+K&#xF6;nigstuhl, the castle, hauptstrasse, the old bridge, neuenheim and Philosophenweg-walk and of course Ma&#xDF; and meat at Vetters. So all-in-all the mission was accomplished, and I was celebrated on my birthday ;)&#xA0;&#xD;&#xD;Over easter Martin was here, which as always means a bit of alcohol, great whether (yet again;) and chillin' in HD. This time we actually made ou way to Mannheim on the saturday to go shopping. Got some new shorts and a speaker for my iPod to take on the road, so now I'm all set for the travel-mayhem starting in about a week and lasting more or less all summer.&#xD;&#xD;On thursday I'm leaving for NYC! I have a meeting up the coast on monday-thursday the week after, so thought that a weekend in New York wouldn't harm anyone (except my wallet of course - but luckily the 1 euro corresponds to 1.48 USD at the moement, so thats great!), hence I'm taking a couple of days off in the big apple. Don't really have any plans this time - managed to see/do most of it last time - so all NYC is abuot this time is good food, sweet shopping and long walks at the bea... well in the streets, that is.&#xD;&#xD;After New York and New Haven, where the meeting is held, I have a trip to London (luckily it was not this weekend...). MG and I plus some of MG's friends are going to Roger Water - The Wall in the O2 arena, which is gonna be pretty amazing. We have combined the concert with a couple of days in london, but since I will probably have don all my shopping in NYC this time it will just be sight seeing and chillin'... I guess.&#xD;&#xD;After London the program reads something like Leiden-Ibiza-DK-Durham-Mallorca-DK with germany in between now and then. So indeed a busy summer.&#xD;&#xD;Hope you'll enjoy it as well.&#xD;See you around&#xD;Kasper</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, 30 April 2011&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_...check..._files/shapeimage_2.png" left="0px" top="0px" width="461px" height="346px"/>
+</content>
