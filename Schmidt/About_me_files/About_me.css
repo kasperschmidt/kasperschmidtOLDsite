@@ -82,14 +82,6 @@
     font-weight: 700;
     line-height: 25px;
 }
-.style_5 {
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 20px;
-}
 .paragraph_style_2 {
     color: rgb(255, 255, 255);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
@@ -134,7 +126,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_6 {
+.style_5 {
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 18px;
     font-stretch: normal;
@@ -142,7 +134,7 @@
     font-weight: 700;
     line-height: 25px;
 }
-.style_7 {
+.style_6 {
     color: rgb(255, 255, 255);
     font-family: 'Helvetica', 'Arial', sans-serif;
     font-size: 15px;

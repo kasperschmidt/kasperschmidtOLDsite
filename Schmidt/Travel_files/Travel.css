@@ -1,11 +1,11 @@
 .paragraph_style {
     color: rgb(255, 255, 255);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 36px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 0;
     line-height: 50px;
     margin-bottom: 0px;
@@ -180,11 +180,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default_External_651_1695 {
-    position: relative;
-}
 .graphic_shape_layout_style_default {
     padding: 4px;
+}
+.graphic_shape_layout_style_default_External_651_1929 {
+    position: relative;
 }
 .graphic_textbox_layout_style_default {
     padding: 4px;
