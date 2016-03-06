@@ -73,11 +73,11 @@
     text-transform: none;
 }
 .style_1 {
-    font-family: 'Helvetica-Bold', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Helvetica', 'Arial', sans-serif;
     font-size: 18px;
     font-stretch: normal;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     line-height: 22px;
 }
 .style_2 {
